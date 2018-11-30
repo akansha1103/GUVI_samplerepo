@@ -8,7 +8,6 @@ public class Alphabet
         {
             System.out.println("Alphabet");
         }
-        
         else
         System.out.println("No");
 	}
